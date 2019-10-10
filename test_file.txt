@@ -1,0 +1,20 @@
+from django.core.mail import send_mail
+send_mail(
+   'subject',
+   'message',
+   'from',
+   ['to'],
+   fail_silently=False,
+)
+
+from django.core.mail import send_mail
+send_mail(
+   'subject',
+   'message',
+   'from',
+   ['to'],
+   fail_silently=False,
+)
+Madiyor
+This was the integer: 1Madiyor
+This was the integer: 1
